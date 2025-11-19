@@ -244,6 +244,3 @@ Este proyecto fue creado con fines **académicos** y no está destinado a uso co
 Podés modificarlo libremente para estudio o práctica.
 
 ---
-
-
-Solo decime qué querés agregar y te lo dejo listo.
