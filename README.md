@@ -235,7 +235,7 @@ Incluye:
 **Stefano Caccia**
 Estudiante — Instituto Superior de Computación Administrativa (ISCA 4014)
 2° TSAFSI — 2025
-
+Docente — Walter Lauxmann
 ---
 
 # 📜 Licencia
